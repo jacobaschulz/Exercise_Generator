@@ -1,0 +1,20 @@
+.template {
+background-color:slategrey;
+color:white;
+margin:10px;
+padding:10px;
+}
+		
+.gradient {
+background:linear-gradient(midnightblue, cornflowerblue);
+color:white;
+margin:10px;
+padding:10px;
+}
+	
+.gradient_two {
+background:linear-gradient(midnightblue, cornflowerblue);
+color:white;
+margin:10px;
+padding:10px;
+}
